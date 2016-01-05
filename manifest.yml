@@ -1,0 +1,5 @@
+---
+applications:
+- name: cgitest
+  memory: 128MB
+  command: python server.py
